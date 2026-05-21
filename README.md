@@ -1,5 +1,3 @@
 **#Learning at BeCode#**
+BeCode Brussels offers massive advantages for aspiring tech professionals, primarily because its intensive bootcamps are 100% free of charge, require no prior degrees or diplomas, and boast an impressive 80% employment rate within one year of completion
 
-¡¤  100% Free Tuition: There are completely no registration or hidden fees for job seekers.
-¡¤  Hardware Support: Through partnerships with local organizations, students can borrow refurbished laptops for the entire duration of the training if they lack their own equipment.
-¡¤  No Degree Barriers: Selection relies heavily on motivation and problem-solving potential rather than official academic diplomas or previous technical experience. [1, 2, 3, 4]
